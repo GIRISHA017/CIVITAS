@@ -1,0 +1,6 @@
+{
+  "name": "Civitas",
+  "description": "A hyperlocal civic platform combining issue reporting, maintenance ledgers, local business directory, community events, voting, achievements, and weekly news digests.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
